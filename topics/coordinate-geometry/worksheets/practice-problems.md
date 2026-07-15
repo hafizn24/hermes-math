@@ -55,13 +55,13 @@ Bulatan mempunyai pusat C(3, 4) dan melalui titik P(7, 1). Cari:
 ## Bahagian C: Aplikasi Dunia Sebenar
 
 ### Soalan 9
-Sebuah drone perlu menghantar paket ke tiga lokasi: A(1, 2), B(4, 6), C(7, 2). Cari titik permulaan optimum untuk mengurangkan jumlah jarak.
+Sebuah drone perlu menghantar paket ke tiga lokasi: A(1, 2), B(4, 6), C(7, 2). Cari pusat graviti (titik purata) ketiga-tiga lokasi ini sebagai titik rujukan permulaan.
 
 ### Soalan 10
 Titik A(-2, 3), B(2, -1), C(6, 3). Cari:
 (a) Perimeter segi tiga ABC
 (b) Titik tengah AB dan BC
-(c) Titik D untuk membuat ABCD segi empar
+(c) Titik D untuk membuat ABCD segiempat selari
 
 ### Soalan 11
 Azri mempunyai rutin harian:
@@ -85,7 +85,7 @@ Cari titik tengah bagi setiap perjalanan antara dua ciri taman.
 ## Bahagian D: Soalan Penilaian
 
 ### Soalan 13
-Diberi titik A(1, 2), B(4, 6), C(7, 2). Cari koordinat titik D supaya ABCD membentuk segi empar.
+Diberi titik A(1, 2), B(4, 6), C(7, 2). Cari koordinat titik D supaya ABCD membentuk segiempat selari.
 
 ### Soalan 14
 Segi tiga PQR mempunyai bucu P(1, 1), Q(4, 5), R(7, 1). Cari:
@@ -157,9 +157,10 @@ Jika M(4, 6) ialah titik tengah bagi garis lurus AB dan A(2, 4), cari koordinat 
 **Soalan 11**: Jumlah jarak = 11.71 unit
 
 **Soalan 12**: 
-- Pintu masuk ke air pancut: \((1.5, 1)\)
-- Playground ke kedai: \((1, 1.5)\)
-- Taman permainan ke taman rehat: \((3.5, 1)\)
+- Pintu masuk ke air pancut: (1.5, 1)
+- Air pancut ke playground: (1, 3)\- Playground ke taman permainan: (0.5, 1.5)\- Taman permainan ke taman rehat: (3, 1)
+
+
 
 ### Bahagian D
 **Soalan 13**: D(4, 6)

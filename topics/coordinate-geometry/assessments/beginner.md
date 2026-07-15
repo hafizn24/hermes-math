@@ -61,7 +61,7 @@ Lengkapkan semua soalan. Tunjuk kerja anda untuk mendapat markah penuh.
    (c) Cari koordinat pusat graviti segi tiga PQR. (2 markah)
 
 **12. Sebuah drone perlu menghantar paket ke tiga lokasi: A(1, 2), B(4, 6), C(7, 2).**
-   (a) Cari titik permulaan optimum untuk mengurangkan jumlah jarak. (5 markah)
+   (a) Cari pusat graviti (titik purata) ketiga-tiga lokasi ini. (5 markah)
    (b) Kira jumlah jarak dari titik optimum ke ketiga-tiga lokasi. (2 markah)
 
 ## Jawapan

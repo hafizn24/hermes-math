@@ -44,15 +44,15 @@ Lengkapkan semua soalan. Tunjuk kerja anda untuk mendapat markah penuh.
 **7. Diberi titik A(-2, 3), B(2, -1), C(6, 3).**
    (a) Cari perimeter segi tiga ABC. (8 markah)
    (b) Cari titik tengah AB dan BC. (6 markah)
-   (c) Cari titik D untuk membuat ABCD segi empar. (6 markah)
+   (c) Cari titik D untuk membuat ABCD segiempat selari. (6 markah)
 
 **8. Sebuah syarikat pengangkutan perlu menghantar barangan dari depot di (0, 0) ke tiga pelanggan:**
    - Pelanggan A: (2, 3)
    - Pelanggan B: (5, 1)
    - Pelanggan C: (3, 6)
-   (a) Cari titik permulaan optimum untuk mengurangkan jumlah jarak. (8 markah)
-   (b) Kira jumlah jarak dari titik optimum ke ketiga-tiga pelanggan. (4 markah)
-   (c) Jika lori boleh membawa maksimum 15 unit jarak, adakah titik ini sesuai? (3 markah)
+   (a) Cari pusat graviti (titik purata) bagi ketiga-tiga pelanggan tersebut. (8 markah)
+   (b) Kira jumlah jarak dari pusat graviti ke ketiga-tiga pelanggan. (4 markah)
+   (c) Jika lori boleh membawa maksimum 15 unit jarak, adakah jumlah jarak ini dalam had tersebut? (3 markah)
 
 ## Jawapan
 
@@ -80,5 +80,5 @@ Lengkapkan semua soalan. Tunjuk kerja anda untuk mendapat markah penuh.
    (b) Titik tengah AB: \((0, 1)\), Titik tengah BC: \((4, 1)\)
    (c) D(2, 7)
 8. (a) Pusat graviti = \(\left( \frac{0+2+5+3}{4}, \frac{0+3+1+6}{4} \right) = (2.5, 2.5)\)
-   (b) Jumlah jarak = 6.93 unit
-   (c) Ya, kerana 11.18 < 15
+   (b) Jumlah jarak dari pusat graviti ke ketiga-tiga pelanggan = 6.93 unit
+   (c) Ya, kerana 6.93 < 15

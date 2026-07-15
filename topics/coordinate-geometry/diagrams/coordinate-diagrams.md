@@ -2,6 +2,19 @@
 
 ## Diagram 1: Sistem Koordinat Cartesian
 
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="200" x2="400" y2="200" stroke="black" stroke-width="1"/>
+  <line x1="200" y1="0" x2="200" y2="400" stroke="black" stroke-width="1"/>
+  <circle cx="260" cy="110" r="4" fill="red"/>
+  <text x="266" y="106" font-size="14">A(2, 3)</text>
+  <circle cx="170" cy="80" r="4" fill="red"/>
+  <text x="120" y="76" font-size="14">B(-1, 4)</text>
+  <circle cx="290" cy="260" r="4" fill="red"/>
+  <text x="296" y="264" font-size="14">C(3, -2)</text>
+  <circle cx="110" cy="230" r="4" fill="red"/>
+  <text x="40" y="244" font-size="14">D(-3, -1)</text>
+</svg>
+
 **Koordinat Utama:**
 - A(2, 3)
 - B(-1, 4) 
@@ -13,6 +26,8 @@
 - Sukuan II: (-, +)
 - Sukuan III: (-, -)
 - Sukuan IV: (+, -)
+
+**Nota:** Diagram 2 hingga Diagram 7 dalam fail ini masih belum mempunyai visual sebenar (hanya teks/formula). Ini masih tertunda dan bukan sebahagian daripada pembetulan semasa.
 
 ## Diagram 2: Formula Jarak
 
@@ -67,4 +82,4 @@
 - Rumah ke sekolah: 3 km
 - Sekolah ke masjid: \(\sqrt{(-1-0)^2 + (2-0)^2} = \sqrt{5} \approx 2.24\) km
 - Masjid ke kedai: \(\sqrt{(2-(-1))^2 + (-1-2)^2} = \sqrt{18} \approx 4.24\) km
-- Jumlah jarian: 9.48 km
+- Jumlah jarak: 9.48 km

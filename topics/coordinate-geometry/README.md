@@ -18,7 +18,7 @@ Modul ini merangkumi geometri koordinat yang komprehensif termasuk sistem koordi
 
 ## Prasyarat
 - Pemahaman asas garisan nombor
-- Kepuasan dengan nombor positif dan negatif
+- Keselesaan menggunakan nombor positif dan negatif
 - Kemahiran algebra asas
 
 ## Pendekatan Pengajaran
