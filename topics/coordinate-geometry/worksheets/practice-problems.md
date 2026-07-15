@@ -158,7 +158,9 @@ Jika M(4, 6) ialah titik tengah bagi garis lurus AB dan A(2, 4), cari koordinat 
 
 **Soalan 12**: 
 - Pintu masuk ke air pancut: (1.5, 1)
-- Air pancut ke playground: (1, 3)\- Playground ke taman permainan: (0.5, 1.5)\- Taman permainan ke taman rehat: (3, 1)
+- Air pancut ke playground: (1, 3)
+- Playground ke taman permainan: (0.5, 1.5)
+- Taman permainan ke taman rehat: (3, 1)
 
 
 
