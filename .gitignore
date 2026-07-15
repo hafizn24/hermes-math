@@ -1,0 +1,39 @@
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.log
+*.pdf
+*.docx
+*.xlsx
+
+# Build directories
+build/
+dist/
+node_modules/
+
+# Temporary directories
+temp/
+tmp/
+
+# Backup files
+*_backup*
+*_old*
+
+# Editor files
+*~
+.*.swp
+.*.swo

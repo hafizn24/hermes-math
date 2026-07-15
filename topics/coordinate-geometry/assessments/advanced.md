@@ -80,5 +80,5 @@ Lengkapkan semua soalan. Tunjuk kerja anda untuk mendapat markah penuh.
    (b) Titik tengah AB: \((0, 1)\), Titik tengah BC: \((4, 1)\)
    (c) D(2, 7)
 8. (a) Pusat graviti = \(\left( \frac{0+2+5+3}{4}, \frac{0+3+1+6}{4} \right) = (2.5, 2.5)\)
-   (b) Jumlah jarak = 11.18 unit
+   (b) Jumlah jarak = 6.93 unit
    (c) Ya, kerana 11.18 < 15

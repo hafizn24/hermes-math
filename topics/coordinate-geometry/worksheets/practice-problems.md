@@ -154,7 +154,7 @@ Jika M(4, 6) ialah titik tengah bagi garis lurus AB dan A(2, 4), cari koordinat 
 (b) Titik tengah AB: \((0, 1)\), Titik tengah BC: \((4, 1)\)
 (c) D(2, 7)
 
-**Soalan 11**: Jumlah jarak = 15.65 unit
+**Soalan 11**: Jumlah jarak = 11.71 unit
 
 **Soalan 12**: 
 - Pintu masuk ke air pancut: \((1.5, 1)\)
