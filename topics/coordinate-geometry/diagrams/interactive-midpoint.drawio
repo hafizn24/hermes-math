@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2026-07-16T00:00:00.000Z" agent="Hermes Agent" version="24.6.4" type="device">
+  <diagram name="Midpoint Concept" id="midpoint-concept">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        
+        <!-- Coordinate System -->
+        <mxCell id="coord-system" value="" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry width="600" height="600" x="125" y="50"/>
+        </mxCell>
+        
+        <!-- X-axis -->
+        <mxCell id="x-axis" value="X" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry width="600" height="20" x="125" y="350"/>
+        </mxCell>
+        
+        <!-- Y-axis -->
+        <mxCell id="y-axis" value="Y" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry width="20" height="600" x="415" y="50"/>
+        </mxCell>
+        
+        <!-- Points A and B -->
+        <mxCell id="point-a" value="A(-2,6)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ff9800;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry width="60" height="60" x="285" y="50"/>
+        </mxCell>
+        
+        <mxCell id="point-b" value="B(4,2)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#4caf50;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry width="60" height="60" x="535" y="290"/>
+        </mxCell>
+        
+        <!-- Midpoint M -->
+        <mxCell id="point-m" value="M(1,4)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f44336;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry width="60" height="60" x="415" y="170"/>
+        </mxCell>
+        
+        <!-- Line AB -->
+        <mxCell id="line-ab" value="" style="endArrow=classic;html=1;strokeColor=#2196f3;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry width="400" height="20" x="315" y="170"/>
+        </mxCell>
+        
+        <!-- Lines from A to M and M to B -->
+        <mxCell id="line-am" value="" style="endArrow=classic;html=1;strokeColor=#ff9800;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="20" x="315" y="170"/>
+        </mxCell>
+        
+        <mxCell id="line-mb" value="" style="endArrow=classic;html=1;strokeColor=#4caf50;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="20" x="515" y="170"/>
+        </mxCell>
+        
+        <!-- Midpoint formula box -->
+        <mxCell id="formula-box" value="Midpoint Formula:&#10;M((x₁+x₂)/2, (y₁+y₂)/2)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3f2fd;strokeColor=#1976d2;" vertex="1" parent="1">
+          <mxGeometry width="220" height="100" x="525" y="50"/>
+        </mxCell>
+        
+        <!-- Calculation -->
+        <mxCell id="calculation" value="Calculation:&#10;M((-2+4)/2, (6+2)/2)&#10;M(2/2, 8/2)&#10;M(1, 4)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#7b1fa2;" vertex="1" parent="1">
+          <mxGeometry width="200" height="120" x="525" y="170"/>
+        </mxCell>
+        
+        <!-- Properties box -->
+        <mxCell id="properties" value="Properties:&#10;• Equal distance from A and B&#10;• Average of coordinates&#10;• Center point of segment AB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e8;strokeColor=#388e3c;" vertex="1" parent="1">
+          <mxGeometry width="200" height="100" x="525" y="310"/>
+        </mxCell>
+        
+        <!-- Grid lines -->
+        <mxCell id="grid-lines" value="" style="endArrow=none;html=1;strokeColor=#cccccc;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry width="580" height="580" x="135" y="60"/>
+        </mxCell>
+        
+        <!-- Distance indicators -->
+        <mxCell id="distance-am" value="AM = 3.61" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry width="80" height="20" x="360" y="120"/>
+        </mxCell>
+        
+        <mxCell id="distance-mb" value="MB = 3.61" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry width="80" height="20" x="480" y="220"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -147,7 +147,7 @@ Jika M(4, 6) ialah titik tengah bagi garis lurus AB dan A(2, 4), cari koordinat 
 (c) Q(-1, 7)
 
 ### Bahagian C
-**Soalan 9**: Pusat graviti: \((4, 3.33)\)
+**Soalan 9**: Pusat graviti (purata kedudukan): \((4, 3.33)\). Ini adalah titik purata, bukan titik yang meminimumkan jumlah jarak sebenar.
 
 **Soalan 10**:
 (a) Perimeter = \(2\sqrt{32} + 8\) unit
@@ -157,12 +157,10 @@ Jika M(4, 6) ialah titik tengah bagi garis lurus AB dan A(2, 4), cari koordinat 
 **Soalan 11**: Jumlah jarak = 11.71 unit
 
 **Soalan 12**: 
-- Pintu masuk ke air pancut: (1.5, 1)
-- Air pancut ke playground: (1, 3)
-- Playground ke taman permainan: (0.5, 1.5)
-- Taman permainan ke taman rehat: (3, 1)
-
-
+- Pintu masuk ke air pancut: \((1.5, 1)\)
+- Air pancut ke playground: \((1, 3)\)
+- Playground ke taman permainan: \((0.5, 1.5)\)
+- Taman permainan ke taman rehat: \((3, 1)\)
 
 ### Bahagian D
 **Soalan 13**: D(4, 6)

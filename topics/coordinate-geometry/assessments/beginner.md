@@ -62,7 +62,7 @@ Lengkapkan semua soalan. Tunjuk kerja anda untuk mendapat markah penuh.
 
 **12. Sebuah drone perlu menghantar paket ke tiga lokasi: A(1, 2), B(4, 6), C(7, 2).**
    (a) Cari pusat graviti (titik purata) ketiga-tiga lokasi ini. (5 markah)
-   (b) Kira jumlah jarak dari titik optimum ke ketiga-tiga lokasi. (2 markah)
+   (b) Kira jumlah jarak dari pusat graviti ke ketiga-tiga lokasi. (2 markah)
 
 ## Jawapan
 
@@ -85,4 +85,4 @@ Lengkapkan semua soalan. Tunjuk kerja anda untuk mendapat markah penuh.
     (b) Segi tiga sama kaki
     (c) Pusat graviti = (4, 3.33)
 12. (a) Pusat graviti = (4, 3.33)
-    (b) Jumlah jarak = 9.23 unit
+    (b) Jumlah jarak dari pusat graviti = 9.23 unit (nota: ini bukan semestinya jarak minimum mutlak, kerana pusat graviti tidak semestinya titik yang meminimumkan jumlah jarak)
